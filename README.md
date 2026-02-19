@@ -29,6 +29,6 @@ We studied the trends for YouTube videos across multiple different metrics:
 ![Pic 3](pictures/Best-Upload-Times-Average-Views-With-Outliers.png)
 ![Pic 4](pictures/Best-Upload-Times-Average-Views-No-Outliers.png)
 
-The most interesting comparison we made was the type of video to how many views there were. As you can see below, the most popular videos are music videos, followed by entertainment, then everything else.
+- The most interesting comparison we made was the type of video to how many views there were. As you can see below, the most popular videos are music videos, followed by entertainment, then everything else.
 
 ![Pic 5](pictures/Views-per-Million-of-Each-Category.png)
