@@ -18,7 +18,9 @@ The dataset is more fully described on Kaggle, and can be found [here](https://w
 We studied the trends for YouTube videos across multiple different metrics:
 - By averaging the views on each day of the week, we could see that Sunday and Friday have the most views. This would make sense - the weekends are the days people have the most free time.
 
-![Pic 1](pictures/Average-Views-per-Day.png)
+<div align="center">
+  <img src="pictures/Average-Views-per-Day.png" width="500">
+</div>
 
 - Looking at the most common upload times for YouTube videos, there is a clear rise in uploads between 0700 PST - 1400 PST.
 
