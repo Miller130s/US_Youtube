@@ -24,13 +24,21 @@ We studied the trends for YouTube videos across multiple different metrics:
 
 - Looking at the most common upload times for YouTube videos, there is a clear rise in uploads between 0700 PST - 1400 PST.
 
-![Pic 2](pictures/Most-Common-Upload-Times.png)
+<div align="center">
+  <img src="pictures/Most-Common-Upload-Times.png" width="500">
+</div>
 
 - We also looked at the best time of day to upload a YouTube video. Based on the data, there might be a slightly better time around 0100 PST, but for the most part, the upload time did not affect views.
 
-![Pic 3](pictures/Best-Upload-Times-Average-Views-With-Outliers.png)
-![Pic 4](pictures/Best-Upload-Times-Average-Views-No-Outliers.png)
+<div align="center">
+  <img src="pictures/Best-Upload-Times-Average-Views-With-Outliers.png" width="500">
+</div>
+<div align="center">
+  <img src="pictures/Best-Upload-Times-Average-Views-No-Outliers.png" width="500">
+</div>
 
 - The most interesting comparison we made was the type of video to how many views there were. As you can see below, the most popular videos are music videos, followed by entertainment, then everything else.
 
-![Pic 5](pictures/Views-per-Million-of-Each-Category.png)
+<div align="center">
+  <img src="pictures/Views-per-Million-of-Each-Category.png" width="500">
+</div>
